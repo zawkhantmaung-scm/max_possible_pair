@@ -1,0 +1,19 @@
+{
+  "name": "max_possible_pair",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zawkhantmaung-scm/max_possible_pair.git"
+  },
+  "author": "昨夜のコンサートは最高でした",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zawkhantmaung-scm/max_possible_pair/issues"
+  },
+  "homepage": "https://github.com/zawkhantmaung-scm/max_possible_pair#readme"
+}
